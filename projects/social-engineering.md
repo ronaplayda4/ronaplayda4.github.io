@@ -123,4 +123,9 @@ Password: [REDACTED]</pre>
 
   <p><a href="../index.html">← Back to Home</a></p>
 </body>
-</html>
+</html><img width="1918" height="920" alt="kali-attack Red Team simulation-2025-10-16-20-22-04" src="https://github.com/user-attachments/assets/20dfd6ee-d00d-40cf-b2a6-85ba8b9caac8" />
+<img width="1918" height="920" alt="kali-attack Red Team simulation-2025-10-16-20-14-38" src="https://github.com/user-attachments/assets/2370115f-b40a-4d68-8e48-190d6e227ffc" />
+<img width="1918" height="920" alt="kali-attack Red Team simulation-2025-10-16-20-14-02" src="https://github.com/user-attachments/assets/a50ebb7a-1dc4-4177-9a27-bb2a08f8783f" />
+<img width="1918" height="920" alt="kali-attack Red Team simulation-2025-10-16-20-13-35" src="https://github.com/user-attachments/assets/ee8954ea-b80f-4c1d-9d16-ab1770c6e922" />
+<img width="1918" height="920" alt="kali-attack Red Team simulation-2025-10-16-20-06-46" src="https://github.com/user-attachments/assets/752c6eb9-eed2-48d5-baee-d09be9de90d8" />
+
